@@ -10,5 +10,5 @@ public class ActuatorExampleApplication {
 	{
 		SpringApplication.run(ActuatorExampleApplication.class, args);
 	}
-
+//changes
 }
